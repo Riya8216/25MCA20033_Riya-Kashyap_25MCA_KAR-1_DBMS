@@ -1,0 +1,2 @@
+# 25MCA20033_Riya-Kashyap_25MCA_KAR-1_DBMS
+Lab Mst
