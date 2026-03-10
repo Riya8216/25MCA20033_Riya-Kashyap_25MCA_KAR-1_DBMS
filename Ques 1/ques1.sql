@@ -20,6 +20,8 @@ INSERT INTO Purchases (customer_id, product_id, purchase_date) VALUES
 (108, 1, '2026-03-03');
 
 SELECT Distinct
+    p1.product_id,
+    p1.purchase_date,
     p1.customer_id AS customer_a,
     p2.customer_id AS customer_b
 FROM Purchases p1
